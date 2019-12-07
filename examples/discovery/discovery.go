@@ -4,10 +4,10 @@ package discovery_example
 import (
 	"context"
 
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/api/beacon"
-	"github.com/muka/go-bluetooth/bluez/profile/adapter"
-	"github.com/muka/go-bluetooth/bluez/profile/device"
+	"github.com/kupihse/go-bluetooth/api"
+	"github.com/kupihse/go-bluetooth/api/beacon"
+	"github.com/kupihse/go-bluetooth/bluez/profile/adapter"
+	"github.com/kupihse/go-bluetooth/bluez/profile/device"
 	log "github.com/sirupsen/logrus"
 )
 

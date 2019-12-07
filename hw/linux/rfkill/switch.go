@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/muka/go-bluetooth/hw/linux/hciconfig"
+	"github.com/kupihse/go-bluetooth/hw/linux/hciconfig"
 )
 
 var rfclass = [...]string{

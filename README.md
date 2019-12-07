@@ -2,7 +2,7 @@
 
 Go bluetooth API for Bluez DBus interface.
 
-[![GoDoc](https://godoc.org/github.com/muka/go-bluetooth?status.svg)](https://godoc.org/github.com/muka/go-bluetooth)
+[![GoDoc](https://godoc.org/github.com/kupihse/go-bluetooth?status.svg)](https://godoc.org/github.com/kupihse/go-bluetooth)
 
 <img align="center" width="240" src="./gopher.png">
 
@@ -10,7 +10,7 @@ Go bluetooth API for Bluez DBus interface.
 
 1. Build the binary
 
-  `cd $GOPATH/src/github.com/muka/go-bluetooth && make build`
+  `cd $GOPATH/src/github.com/kupihse/go-bluetooth && make build`
 
 2. Run the examples eg.
 
@@ -42,7 +42,7 @@ Generated code has `gen_` prefix. If an API file exists with the same filename b
 **Note** Ensure to install proper dbus rules on the system. For a dev setup, you can use the library configuration as follow
 
 ```sh
-  cd $GOPATH/src/github.com/muka/go-bluetooth
+  cd $GOPATH/src/github.com/kupihse/go-bluetooth
   sudo ln -s `pwd`/scripts/dbus-go-bluetooth-service.conf /etc/dbus-1/system.d/
   sudo ln -s `pwd`/scripts/dbus-go-bluetooth-dev.conf /etc/dbus-1/system.d/
   # Reload dbus to load new policies:

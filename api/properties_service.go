@@ -5,9 +5,9 @@ import (
 	"github.com/godbus/dbus"
 	"github.com/godbus/dbus/introspect"
 	"github.com/godbus/dbus/prop"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/props"
+	"github.com/kupihse/go-bluetooth/bluez"
+	"github.com/kupihse/go-bluetooth/bluez/profile"
+	"github.com/kupihse/go-bluetooth/props"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -4,7 +4,7 @@ import (
 	"reflect"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/util"
+	"github.com/kupihse/go-bluetooth/util"
 	log "github.com/sirupsen/logrus"
 )
 

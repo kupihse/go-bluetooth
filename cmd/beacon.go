@@ -14,7 +14,7 @@
 package cmd
 
 import (
-	beacon_example "github.com/muka/go-bluetooth/examples/beacon"
+	beacon_example "github.com/kupihse/go-bluetooth/examples/beacon"
 	"github.com/spf13/cobra"
 )
 

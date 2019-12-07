@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/muka/go-bluetooth/bluez/profile/gatt"
+	"github.com/kupihse/go-bluetooth/bluez/profile/gatt"
 )
 
 //getting config,data,period characteristics for Humidity sensor

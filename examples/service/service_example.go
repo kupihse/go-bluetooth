@@ -3,7 +3,7 @@ package service_example
 import (
 	"time"
 
-	"github.com/muka/go-bluetooth/api/service"
+	"github.com/kupihse/go-bluetooth/api/service"
 	log "github.com/sirupsen/logrus"
 )
 

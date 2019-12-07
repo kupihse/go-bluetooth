@@ -3,7 +3,7 @@ package api
 import (
 	"testing"
 
-	"github.com/muka/go-bluetooth/bluez/profile/adapter"
+	"github.com/kupihse/go-bluetooth/bluez/profile/adapter"
 	"github.com/stretchr/testify/assert"
 )
 

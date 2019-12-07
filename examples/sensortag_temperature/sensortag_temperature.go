@@ -5,8 +5,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/devices/sensortag"
+	"github.com/kupihse/go-bluetooth/api"
+	"github.com/kupihse/go-bluetooth/devices/sensortag"
 )
 
 // example of reading temperature from a TI sensortag

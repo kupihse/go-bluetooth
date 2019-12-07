@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/muka/go-bluetooth/bluez/profile/advertising"
-	"github.com/muka/go-bluetooth/bluez/profile/device"
+	"github.com/kupihse/go-bluetooth/bluez/profile/advertising"
+	"github.com/kupihse/go-bluetooth/bluez/profile/device"
 )
 
 const appleBit = 0x004C

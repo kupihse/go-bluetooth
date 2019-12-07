@@ -4,9 +4,9 @@ package obex_agent
 
 import (
    "sync"
-   "github.com/muka/go-bluetooth/bluez"
-   "github.com/muka/go-bluetooth/util"
-   "github.com/muka/go-bluetooth/props"
+   "github.com/kupihse/go-bluetooth/bluez"
+   "github.com/kupihse/go-bluetooth/util"
+   "github.com/kupihse/go-bluetooth/props"
    "github.com/godbus/dbus"
 )
 

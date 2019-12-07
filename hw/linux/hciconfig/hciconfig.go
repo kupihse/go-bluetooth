@@ -3,7 +3,7 @@ package hciconfig
 import (
 	"strings"
 
-	"github.com/muka/go-bluetooth/hw/linux/cmd"
+	"github.com/kupihse/go-bluetooth/hw/linux/cmd"
 )
 
 // GetAdapters return the list of available adapters

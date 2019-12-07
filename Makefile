@@ -26,10 +26,10 @@ gen:
 	FILTER=${FILTER} go run gen/srcgen/main.go
 
 test/api:
-	sudo go test github.com/muka/go-bluetooth/api
+	sudo go test github.com/kupihse/go-bluetooth/api
 
 test/linux:
-	sudo go test -v github.com/muka/go-bluetooth/linux/btmgmt
+	sudo go test -v github.com/kupihse/go-bluetooth/linux/btmgmt
 
 build:
 	CGO_ENABLED=0 go build -o go-bluetooth ./main.go

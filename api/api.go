@@ -2,8 +2,8 @@
 package api
 
 import (
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile/adapter"
+	"github.com/kupihse/go-bluetooth/bluez"
+	"github.com/kupihse/go-bluetooth/bluez/profile/adapter"
 )
 
 var adapters = map[string]*adapter.Adapter1{}

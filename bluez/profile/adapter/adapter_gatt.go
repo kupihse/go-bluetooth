@@ -1,7 +1,7 @@
 package adapter
 
 import (
-	"github.com/muka/go-bluetooth/bluez/profile/gatt"
+	"github.com/kupihse/go-bluetooth/bluez/profile/gatt"
 )
 
 //GetGattManager return a GattManager1 instance

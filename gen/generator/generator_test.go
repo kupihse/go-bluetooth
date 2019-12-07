@@ -3,7 +3,7 @@ package generator
 import (
 	"testing"
 
-	"github.com/muka/go-bluetooth/gen"
+	"github.com/kupihse/go-bluetooth/gen"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile/gatt"
+	"github.com/kupihse/go-bluetooth/api"
+	"github.com/kupihse/go-bluetooth/bluez"
+	"github.com/kupihse/go-bluetooth/bluez/profile/gatt"
 )
 
 type Service struct {

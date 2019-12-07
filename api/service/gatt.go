@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/muka/go-bluetooth/bluez/profile/gatt"
+	"github.com/kupihse/go-bluetooth/bluez/profile/gatt"
 )
 
 // Create a new GattService1Properties

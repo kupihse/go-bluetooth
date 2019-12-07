@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/muka/go-bluetooth/bluez/profile/adapter"
+	"github.com/kupihse/go-bluetooth/bluez/profile/adapter"
 	log "github.com/sirupsen/logrus"
 )
 

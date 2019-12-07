@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/kupihse/go-bluetooth/api"
+	"github.com/kupihse/go-bluetooth/bluez"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile/device"
+	"github.com/kupihse/go-bluetooth/bluez"
+	"github.com/kupihse/go-bluetooth/bluez/profile/device"
 )
 
 var defaultAdapterID = "hci0"

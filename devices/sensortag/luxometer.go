@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/muka/go-bluetooth/bluez/profile/gatt"
+	"github.com/kupihse/go-bluetooth/bluez/profile/gatt"
 )
 
 //Luxometer Sensor..
